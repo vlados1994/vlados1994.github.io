@@ -1,0 +1,1 @@
+We're going to use instagram api to authenticate users through our website and get users' followings.
